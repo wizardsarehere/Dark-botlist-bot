@@ -1,0 +1,23 @@
+{
+  "name": "wizardhere",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "WizardHere",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.0",
+    "axios": "^0.24.0",
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^13.16.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "5.13.5",
+    "ms": "^2.1.3",
+    "parse-ms": "^2.1.0"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
