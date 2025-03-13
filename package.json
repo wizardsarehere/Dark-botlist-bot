@@ -15,7 +15,8 @@
     "moment-duration-format": "^2.3.2",
     "mongoose": "5.13.5",
     "ms": "^2.1.3",
-    "parse-ms": "^2.1.0"
+    "parse-ms": "^2.1.0",
+    "termstyle-pro": "^1.0.0"
   },
   "engines": {
     "node": "16.x"
